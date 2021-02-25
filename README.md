@@ -8,9 +8,6 @@
   <a href="https://hub.docker.com/repository/docker/peganet/mariadb-aria">
     <img src="https://img.shields.io/docker/pulls/peganet/mariadb-aria?style=for-the-badge">
   </a>
-  <a href="https://ci.nginxproxymanager.com/blue/organizations/jenkins/docker-mariadb-aria/branches/">
-    <img src="https://img.shields.io/jenkins/build?jobUrl=https%3A%2F%2Fci.nginxproxymanager.com%2Fjob%2Fdocker-mariadb-aria%2Fjob%2Fmaster&style=for-the-badge">
-  </a>
 </p>
 
 
